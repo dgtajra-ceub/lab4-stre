@@ -30,3 +30,10 @@ Nesse repositorio ha tambem o [arquivo .BRD](https://github.com/dgtajra-ceub/lab
 
 ## Bibliografia
 Foi utilizado o seguinte materia para estudo para a resolucao da atividade: [instructables dot com Light-Sensor-Photoresistor-Arduino-Tinkercad](https://www.instructables.com/Light-Sensor-Photoresistor-Arduino-Tinkercad/)
+
+### Outros
+Nao relacionado ao trabalho, mas tambem foi feito outros circuitos no tinkercad, eles estao [disponiveis neste link](https://www.tinkercad.com/things/8smIEMhfomy-glorious-migelo-lab-35)
+Circuitos expostos:
+* LED Blink
+* Leitor de INPUT de botao
+* Semaforo

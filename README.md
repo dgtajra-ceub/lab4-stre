@@ -27,3 +27,6 @@ Foi utilizados os seguintes componentes para reproduzir o circuito proposto:
 ## Links do Circuito
 Em seguida o [link para abrir o circuito no tinkercad](https://www.tinkercad.com/things/lrfySUxpQnT-ingenious-hango-lab-4);
 Nesse repositorio ha tambem o [arquivo .BRD](https://github.com/dgtajra-ceub/lab4-stre/blob/main/Ingenious%20Hango%20(Lab%204).brd) gerado pelo tinkercad.
+
+## Bibliografia
+Foi utilizado o seguinte materia para estudo para a resolucao da atividade: [instructables dot com Light-Sensor-Photoresistor-Arduino-Tinkercad](https://www.instructables.com/Light-Sensor-Photoresistor-Arduino-Tinkercad/)

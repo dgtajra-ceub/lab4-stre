@@ -1,4 +1,4 @@
-# Laboratório 1
+# Laboratório 4
 
 **Aluno:** Daniel Ghazaleh Tajra
 **RA:** 21752820
@@ -9,7 +9,7 @@ Repo criado para expor o trabalho "Laboratório 4" da disciplina de Sistemas em 
 
 ## Atividade Original
 
-A atividade original pode ser encontrada no [repositorio/git oficial da disciplina]([https://dev.educatux.com.br/uniceub/str/-/blob/master/pdf/202002-Lab04-STR.pdf](https://dev.educatux.com.br/uniceub/str/-/blob/master/pdf/202002-Lab04-STR.pdf))
+A atividade original pode ser encontrada no [repositorio/git oficial da disciplina](https://dev.educatux.com.br/uniceub/str/-/blob/master/pdf/202002-Lab04-STR.pdf)
 
 ## Ferramenta Utilizada
 
@@ -26,4 +26,4 @@ Foi utilizados os seguintes componentes para reproduzir o circuito proposto:
 
 ## Links do Circuito
 Em seguida o [link para abrir o circuito no tinkercad](https://www.tinkercad.com/things/lrfySUxpQnT-ingenious-hango-lab-4);
-Nesse repositorio ha tambem o (arquivo .BRD)[https://github.com/dgtajra-ceub/lab4-stre/blob/main/Ingenious%20Hango%20(Lab%204).brd] gerado pelo tinkercad.
+Nesse repositorio ha tambem o [arquivo .BRD](https://github.com/dgtajra-ceub/lab4-stre/blob/main/Ingenious%20Hango%20(Lab%204).brd) gerado pelo tinkercad.

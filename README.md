@@ -20,3 +20,6 @@ Foi utilizados os seguintes componentes para reproduzir o circuito proposto:
 * Buzzer 5V
 * Resistor Filme de Carbono 10k ohn
 * Resistor Filme de Carbono 390 ohn
+
+## Foto do Circuito
+![aaa](https://raw.githubusercontent.com/dgtajra-ceub/lab4-stre/main/Ingenious%20Hango%20(Lab%204).png)

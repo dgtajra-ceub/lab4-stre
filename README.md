@@ -22,4 +22,8 @@ Foi utilizados os seguintes componentes para reproduzir o circuito proposto:
 * Resistor Filme de Carbono 390 ohn
 
 ## Foto do Circuito
-![aaa](https://raw.githubusercontent.com/dgtajra-ceub/lab4-stre/main/Ingenious%20Hango%20(Lab%204).png)
+![Foto do Circuito](https://raw.githubusercontent.com/dgtajra-ceub/lab4-stre/main/Ingenious%20Hango%20(Lab%204).png)
+
+## Links do Circuito
+Em seguida o [link para abrir o circuito no tinkercad](https://www.tinkercad.com/things/lrfySUxpQnT-ingenious-hango-lab-4);
+Nesse repositorio ha tambem o (arquivo .BRD)[https://github.com/dgtajra-ceub/lab4-stre/blob/main/Ingenious%20Hango%20(Lab%204).brd] gerado pelo tinkercad.
